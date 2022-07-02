@@ -2,6 +2,8 @@
   "title": "Home",
   "titleTemplate": "| Bluise",
   "welcomeText": "# Yo, I'm SLA Dive - An app that empowers your CS team to take your SLAs metrics game to the next level.\n\nSLA Dive App integrats your Intercom and Google sheets allowing you to export all the Conversations that have missed SLA from Intercom and to have more in depth analysis of your SLA performance over each hour",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
