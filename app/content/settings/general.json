@@ -1,7 +1,7 @@
 {
-  "title": "Homev",
+  "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "# Yo, I'm SLA Dive - An app that empowers your CS team to take your SLAs metrics game to the next level.\n\nSLA Dive App is the right app if you are looking to export all the Conversations that have missed SLA from Intercom and to have more in depth analysis of your SLA performance over each hour",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
